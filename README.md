@@ -1,6 +1,6 @@
 # Task List
 
-A new Flutter project.
+Tasks are stored on Hive database.
 
 ## Getting Started
 
